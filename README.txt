@@ -1,1 +1,1 @@
-Coverstory Custom API Endpoints
+Coverstory Custom Redirect
